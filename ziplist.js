@@ -1,5 +1,5 @@
-const arr1 = ['My', 'has'];
-const arr2 = ['dog', 'fleas!'];
+const arr1 = ['My', 'dog', 'NO'];
+const arr2 = [1, 2, 4];
 
 function zipList(array1, array2) {
   const finalList = [];
